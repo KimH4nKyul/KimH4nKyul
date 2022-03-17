@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KimH4nKyul/hit-counter)](https://hits.seeyoufarm.com)
+
 <!--
 **KimH4nKyul/KimH4nKyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
