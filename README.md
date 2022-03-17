@@ -6,23 +6,27 @@
 
 <div id='intro' align='center'>
   
-### Hi there 👋
+### 👋 Hi there 👋
   
 </div>
 
 
 <div id='tech' align='center'>
 
-### Tech Stack 🌟
+### 🌟 Tech Stack 🌟
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)  
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
 </div>
 
 <div id='contact' align='center'>
 
-### Contact 📫
+### 📫 Contact 📫
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alwayskim9305@gmail.com)](mailto:alwayskim9305@gmail.com)
-[![kakao](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=mailto:alskim93@kakao.com)](mailto:alskim93@kakao.com)
+[![Kakao](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black&link=mailto:alskim93@kakao.com)](mailto:alskim93@kakao.com)
 
 </div>
   
