@@ -8,6 +8,9 @@
   
 ### 👋 Hi there 👋
   
+  I am <b>Kim HanKyul</b> from Republic of Korea.  
+  Currently working at Instant Game Logistics as a <b>backend developer</b>.
+  
 </div>
 
 
