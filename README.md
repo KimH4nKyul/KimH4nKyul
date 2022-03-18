@@ -13,7 +13,7 @@
 
 ### 🕵️‍ If u wanna see more 🕵️‍♂️  
   
-  👉<a href="">Click me</a>👈
+  👉<a href="https://github.com/KimH4nKyul/KimH4nKyul/blob/main/MORE.md" target="_blank">Click me</a>👈
   
 </div>
 
