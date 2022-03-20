@@ -1,15 +1,21 @@
 ### 👀 Experiences 👀  
 
-2022.11.22 ~ <b>Now</b>
+2022.11 ~ <b>Now</b>
 * Instant Game Logistics
   *  Position : Java developer
   *  Skill : Java, SpringBoot, MyBatis, MySQL, Javascript, JQuery, Kafka, AWS
 
-2021.05.04 ~ 2021.11.01
+2021.05 ~ 2021.11
 * Blockchain system engineer training course
-  * learend : Java, SpringBoot, MyBatis, MySQL, Web3J, Hyperledger Fabric, Ethereum, Ganache, Truffle
-  * project : [Blockchain based survey data exchange platform 'Surveyther'](https://github.com/HyperLedjo/surveyther-backend-main)
-  * won : Excellence award
+  * Learend : Java, SpringBoot, MyBatis, MySQL, Web3J, Hyperledger Fabric, Ethereum, Ganache, Truffle
+  * Project : [Blockchain based survey data exchange platform 'Surveyther'](https://github.com/HyperLedjo/surveyther-backend-main)
+  * Won : Excellence award
+  
+2018.10 ~ 2018.12
+* 2nd KETI Mobius2.0 IoT Service Developer Competition
+  * Project : Blind person help service 'Show me the world'
+  * Skill : Python, Raspberry Pi Zero, Javascript, Node.js, AWS SDK
+  * Won : Excellence award
 ----  
 
 ### 🌟 Tech Stack 🌟  
