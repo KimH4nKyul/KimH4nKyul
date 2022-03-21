@@ -21,8 +21,7 @@
 ### 📫 Contact 📫
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alwayskim9305@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:alwayskim9305@gmail.com)]
-[![Kakao](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black&link=mailto:alskim93@kakao.com)](mailto:alskim93@kakao.com)
+[![Kakao](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black)](mailto:alskim93@kakao.com)
 
 </div>
   
