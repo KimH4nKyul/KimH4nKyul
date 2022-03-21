@@ -18,6 +18,11 @@
   * Won : Excellence award
 ----  
 
+### 🛒 Interests 🛒  
+
+Go, DDD, TDD, ..
+
+----
 ### 🌟 Tech Stack 🌟  
 
 <b>Language</b>  
