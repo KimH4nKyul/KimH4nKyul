@@ -22,7 +22,7 @@
 
 Go, DDD, TDD, Blockchain(especially ethereum, hyperledger ..),
 Blockchain based economies(Defi, DAO, NFT ..), 
-Design Patterns, Smart contract audit, System Engineering,
+Design Patterns, Smart contract audit, Software Engineering,
 
 
 ----
