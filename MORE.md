@@ -20,7 +20,10 @@
 
 ### 🛒 Interests 🛒  
 
-Go, DDD, TDD, ..
+Go, DDD, TDD, Blockchain(especially ethereum, hyperledger ..),
+Blockchain based economies(Defi, DAO, NFT ..), 
+Design Patterns, Smart contract audit, System Engineering,
+
 
 ----
 ### 🌟 Tech Stack 🌟  
