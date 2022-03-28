@@ -2,7 +2,7 @@
 
 2022.11 ~ <b>Now</b>
 * Instant Game Logistics
-  *  Position : Java developer
+  *  Position : Java web developer
   *  Skill : Java, SpringBoot, MyBatis, MySQL, Javascript, JQuery, Kafka, AWS
 
 2021.05 ~ 2021.11
