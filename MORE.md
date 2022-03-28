@@ -20,8 +20,7 @@
 
 ### 🛒 Interests 🛒  
 
-Go, Rust, DDD, TDD, Blockchain(especially ethereum, hyperledger ..),
-Blockchain based economies(Defi, DAO, NFT ..), 
+Go, Rust, DDD, TDD, Blockchain(especially ethereum, hyperledger, defi, dao, nft ..),
 Design Patterns, Smart contract audit, Software Engineering, Refactoring ..
 
 
