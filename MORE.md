@@ -38,6 +38,7 @@ Design Patterns, Smart contract audit, Software Engineering, Refactoring ..
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=black)  
 
