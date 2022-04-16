@@ -20,12 +20,12 @@
 
 ### 🛒 Interests 🛒  
 
-Go(❤), Rust(👍), Node.js(🤔), Nest.js(🤔), DDD(👍), TDD(👍), Blockchain(❤),
-Smart contract audit(❤), Design Patterns(👍),  Refactoring(❤) ..
-
-❤ : LOVE
-👍: LIKE
-🤔 : SO SO
+Go(❤), Rust(👍), Node.js(🤔), Nest.js(🤔), DDD(👍), TDD(👍), Blockchain(❤),  
+Smart contract audit(❤), Design Patterns(👍),  Refactoring(❤) ..  
+  
+❤ : LOVE  
+👍: LIKE  
+🤔 : SO SO  
 
 ----
 ### 🌟 Tech Stack 🌟  
