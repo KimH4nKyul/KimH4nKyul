@@ -44,6 +44,7 @@ Smart contract audit(❤), Design Patterns(👍),  Refactoring(❤) ..
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-F16822?style=flat-square&logo=Web3.js&logoColor=black)  
+![Web3J](https://img.shields.io/badge/Web3J-F16822?style=flat-square&logo=Web3.js&logoColor=white)  
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=black)
 
 <b>Database</b>  
