@@ -8,7 +8,7 @@
 2021.11 ~ 2022.07  
 * Instant Game Logistics
   *  Position : Java web developer
-  *  Skill : Java, SpringBoot, MyBatis, MySQL, Javascript, JQuery, Kafka, AWS IAM, EC2, ALB
+  *  Skill : Java, SpringBoot, MyBatis, MySQL, Javascript, JQuery, AWS EC2  
 
 2021.05 ~ 2021.11
 * Blockchain system engineer training course
