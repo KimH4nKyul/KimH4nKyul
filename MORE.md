@@ -1,6 +1,11 @@
 ### 👀 Experiences 👀  
 
-2021.11 ~ <b>Now</b>
+2022.05 ~ <b>Now</b>
+* Opusm
+  *  Position : Blockchain developer
+  *  Skill : Java, JPA, DID(Decentralized Identifier)  
+
+2021.11 ~ 2022.07  
 * Instant Game Logistics
   *  Position : Java web developer
   *  Skill : Java, SpringBoot, MyBatis, MySQL, Javascript, JQuery, Kafka, AWS IAM, EC2, ALB
