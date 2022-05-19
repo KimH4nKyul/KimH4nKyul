@@ -1,7 +1,7 @@
 ### 👀 Experiences 👀  
 
 2022.05 ~ <b>Now</b>
-* Opusm
+* Opus M
   *  Position : Blockchain developer
   *  Skill : Java, JPA, DID(Decentralized Identifier)  
 
