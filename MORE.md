@@ -6,7 +6,7 @@
   *  Skill : Java, JPA    
   *  Domain : DID(Decentralized Identifier), SSI(Self-Sovereign Identity)
 
-2021.11 ~ 2022.07  
+2021.11 ~ 2022.05  
 * Instant Game Logistics
   *  Position : Java web developer
   *  Skill : Java, SpringBoot, MyBatis, MySQL, Javascript, JQuery, AWS EC2  
