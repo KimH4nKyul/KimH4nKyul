@@ -2,13 +2,15 @@
 
 2022.05 ~ <b>Now</b>
 * Opus M
-  *  Position : Blockchain developer
-  *  Skill : Java, JPA, DID(Decentralized Identifier)  
+  *  Position : Blockchain/Backend developer
+  *  Skill : Java, JPA    
+  *  Domain : DID(Decentralized Identifier), SSI(Self-Sovereign Identity)
 
 2021.11 ~ 2022.07  
 * Instant Game Logistics
   *  Position : Java web developer
   *  Skill : Java, SpringBoot, MyBatis, MySQL, Javascript, JQuery, AWS EC2  
+  *  Domain : Web Development, System Maintenance
 
 2021.05 ~ 2021.11
 * Blockchain system engineer training course
