@@ -10,7 +10,7 @@
 * Instant Game Logistics
   *  Position : Java web developer
   *  Skill : Java, SpringBoot, MyBatis, MySQL, Javascript, JQuery, AWS EC2  
-  *  Domain : Web Development, System Maintenance
+  *  Domain : Instant Lottery, Web Development, System Maintenance
 
 2021.05 ~ 2021.11
 * Blockchain system engineer training course
