@@ -4,7 +4,7 @@
 * Opus M
   *  Position : Blockchain/Backend developer
   *  Skill : Java, SpringBoot, JPA, MySQL, H2 Database, Maria DB, Metadium DID SDK
-  *  Domain : SSI(Self-Sovereign Identity) Platform
+  *  Domain : Blockchain, SSI(Self-Sovereign Identity) Platform
 
 2021.11 ~ 2022.05  
 * Instant Game Logistics
