@@ -9,7 +9,7 @@
   
 ### 👋 Hi there 👋
   I am <b>Kim HanKyul</b> from Republic of Korea.  
-  Currently working at Instant Game Logistics as a <b>backend developer</b>.
+  Currently working at Opus M as a <b>Blockchain backend developer</b>.
   
 ### 🕵️‍ If u wanna see more 🕵️‍♂️  
   👉<a href="https://github.com/KimH4nKyul/KimH4nKyul/blob/main/MORE.md">Click me</a>👈
