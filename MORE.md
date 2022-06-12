@@ -3,8 +3,8 @@
 2022.05 ~ <b>Now</b>
 * Opus M
   *  Position : Blockchain/Backend developer
-  *  Skill : Java, JPA    
-  *  Domain : DID(Decentralized Identifier), SSI(Self-Sovereign Identity)
+  *  Skill : Java, SpringBoot, JPA, MySQL, H2 Database, Maria DB
+  *  Domain : SSI(Self-Sovereign Identity) Platform
 
 2021.11 ~ 2022.05  
 * Instant Game Logistics
