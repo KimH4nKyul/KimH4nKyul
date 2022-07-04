@@ -3,8 +3,8 @@
 2022.05 ~ <b>Now</b>
 * Opus M
   *  Position : Blockchain/Backend developer
-  *  Skill : Java, SpringBoot, JPA, MySQL, H2 Database, Maria DB, Metadium DID SDK
-  *  Domain : Blockchain, SSI(Self-Sovereign Identity) Platform
+  *  Skill : Java, SpringBoot, JPA, MySQL, H2 Database, Maria DB, Metadium DID SDK, Go
+  *  Domain : Blockchain, SSI(Self-Sovereign Identity) Platform, X.N.A, X.Probe, LedgerMaster
 
 2021.11 ~ 2022.05  
 * Instant Game Logistics
