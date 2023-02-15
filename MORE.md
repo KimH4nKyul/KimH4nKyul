@@ -3,8 +3,8 @@
 2022.05 ~ <b>Now</b>
 * Opus M
   *  Position : Blockchain/Backend developer
-  *  Skill : Java, SpringBoot, JPA, MySQL, H2 Database, Maria DB, InfluxDB, Metadium DID SDK, Go
-  *  Domain : Blockchain, SSI(Self-Sovereign Identity) Platform, X.N.A, X.Probe, LedgerMaster
+  *  Skill : Java, SpringBoot, JPA, MySQL, H2 Database, Metadium DID Platform, Rust
+  *  Domain : Blockchain, SSI(Self-Sovereign Identity)
 
 2021.11 ~ 2022.05  
 * Instant Game Logistics
@@ -42,8 +42,7 @@ Smart contract audit(❤), Design Patterns(👍),  Refactoring(❤) ..
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)  
 
 <b>Web</b>  
 
