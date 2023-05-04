@@ -3,7 +3,7 @@
 2022.05 ~ <b>Now</b>
 * Opus M
   *  Position : Blockchain/Backend developer
-  *  Skill : Java, SpringBoot, JPA, MySQL, H2 Database, Metadium DID Platform, Rust
+  *  Skill : Java, SpringBoot, JPA, MySQL, H2 Database, Metadium DID Platform, Rust, Hyperledger Indy
   *  Domain : Blockchain, SSI(Self-Sovereign Identity)
 
 2021.11 ~ 2022.05  
