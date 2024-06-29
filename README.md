@@ -9,7 +9,7 @@
   
 ### 👋 Hi there 👋
   I am <b>Kim HanKyul</b> from Republic of Korea.  
-  Currently working at Opus M as a <b>Blockchain backend developer</b>.
+  Currently working at Opus M as a <b>Blockchain Platform Engineer & Smart Contract Engineer</b>.
   
 </div>
 
