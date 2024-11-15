@@ -16,8 +16,10 @@
   
 </div>
 
-<div>
-  [![GitGarden](https://gitgarden.marshallku.dev/?user_name=KimH4nKyul)](https://github.com/marshallku/gitgarden)
+<div id='gitgarden' align='center'>
+  
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=KimH4nKyul)](https://github.com/marshallku/gitgarden)
+
 </div>
 
 
