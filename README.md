@@ -17,15 +17,13 @@
 </div>
 
 <div id='gitanimals' align='center'>
-  
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimH4nKyul&utm_content=line">
     <img
-      src="https://render.gitanimals.org/lines/KimH4nKyul?pet-id=677887348342276935"
+      src="https://render.gitanimals.org/lines/KimH4nKyul?pet-id=677889556706254749"
       width="600"
       height="120"
     />
   </a>
-  
 </div>
 
 <div id='gitgarden' align='center'>
