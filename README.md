@@ -12,8 +12,18 @@
   
 ### 👋 Hi there 👋
   I am <b>Kim HanKyul</b> from Republic of Korea.  
-  Currently working at Opus M as a <b>Blockchain Platform Engineer & Smart Contract Engineer</b>.
+  Currently working at **Opus M**
   
+</div>
+
+<div>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimH4nKyul&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/KimH4nKyul"
+    width="600"
+    height="300"
+  />
+  </a>
 </div>
 
 <div id='gitgarden' align='center'>
