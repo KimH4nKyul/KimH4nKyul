@@ -17,13 +17,15 @@
 </div>
 
 <div id='gitanimals' align='center'>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimH4nKyul&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/KimH4nKyul"
-    width="600"
-    height="300"
-  />
+  
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimH4nKyul&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/KimH4nKyul?pet-id=677887348342276935"
+      width="600"
+      height="120"
+    />
   </a>
+  
 </div>
 
 <div id='gitgarden' align='center'>
