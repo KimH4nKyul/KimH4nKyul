@@ -16,7 +16,7 @@
   
 </div>
 
-<div>
+<div id='gitanimals' align='center'>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimH4nKyul&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/KimH4nKyul"
