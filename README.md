@@ -1,7 +1,5 @@
 <div id='github' align='center'>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimH4nKyul%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=checkmarx.svg&icon_color=%2379C83D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-
 [![Stats](https://github-readme-stats.vercel.app/api?username=KimH4nKyul&show_icons=true)](https://github.com/KimH4nKyul)  
 
 [![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KimH4nKyul&layout=compact)](https://github.com/KimH4nKyul)    
@@ -17,13 +15,13 @@
 </div>
 
 <div id='gitanimals' align='center'>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimH4nKyul&utm_content=line">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimH4nKyul&utm_content=farm">
     <img
-      src="https://render.gitanimals.org/lines/KimH4nKyul?pet-id=677889556706254749"
+      src="https://render.gitanimals.org/farms/KimH4nKyul"
       width="600"
-      height="120"
+      height="300"
     />
-  </a>
+</a>
 </div>
 
 <div id='gitgarden' align='center'>
