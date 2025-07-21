@@ -14,14 +14,23 @@
   
 </div>
 
+
 <div id='gitanimals' align='center'>
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/719825752896762621/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+  </a>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimH4nKyul&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/KimH4nKyul"
       width="600"
       height="300"
     />
-</a>
+  </a>
 </div>
 
 <div id='gitgarden' align='center'>
