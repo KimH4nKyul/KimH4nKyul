@@ -10,7 +10,7 @@
   
 ### 👋 Hi there 👋
   I am <b>Kim HanKyul</b> from Republic of Korea.  
-  Currently working at **Opus M**
+  Currently working at **My Home~🏠**
   
 </div>
 
