@@ -1,11 +1,3 @@
-<div id='github' align='center'>
-  
-[![Stats](https://github-readme-stats.vercel.app/api?username=KimH4nKyul&show_icons=true)](https://github.com/KimH4nKyul)  
-
-[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KimH4nKyul&layout=compact)](https://github.com/KimH4nKyul)    
-
-</div>
-
 <div id='intro' align='center'>
   
 ### 👋 Hi there 👋
